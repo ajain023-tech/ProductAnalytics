@@ -1,0 +1,17 @@
+Metric,Value
+Total Users,11462.0
+Total Columns,16.0
+Control Users,5677.0
+Treatment Users,5785.0
+Control Percentage,49.52887803175711
+Treatment Percentage,50.47112196824289
+Onboarding Users,6291.0
+Trial Users,1878.0
+Paid Users,1123.0
+D1 Retained Users,4669.0
+D7 Retained Users,2104.0
+D30 Retained Users,1692.0
+Overall Paid Conversion from Assigned (%),9.53585761647182
+D1 to D7 Retention Decline (pp),22.378293491537253
+D7 to D30 Retention Decline (pp),3.5944861280753795
+D1 to D30 Retention Decline (pp),25.97277961961263

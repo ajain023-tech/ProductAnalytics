@@ -1,0 +1,3 @@
+experiment_name,metric,control_users,treatment_users,control_conversion_rate,treatment_conversion_rate,absolute_uplift,relative_uplift,confidence_interval_lower,confidence_interval_upper,p_value,adjusted_p_value,statistically_significant
+onboarding_flow_v2,onboarding_completion,5677,5785,53.19711115025542,56.54278305963699,3.3456719093815757,6.289198486609009,1.52456558437045,5.166778234392702,0.00031948672778749234,0.00031948672778749163,true
+onboarding_flow_v2,paid_conversion,5677,5785,10.146203980975868,9.455488331892827,-0.6907156490830415,-6.80762628445213,-1.7794831427789266,0.3980518446128437,0.2136143754928386,0.6606276856205002,false

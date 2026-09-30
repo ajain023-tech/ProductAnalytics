@@ -1,0 +1,7 @@
+feature,data_type,min,max,mean,missing_values,unique_values,description
+experiment_treatment,int64,0,1,0.5047112196824289,0,2,"Experiment assignment indicator: control=0, treatment=1."
+onboarding_completed,int64,0,1,0.5488570930029664,0,2,1 if onboarding was completed; otherwise 0.
+trial_started,int64,0,1,0.16384575117780492,0,2,1 if the user started a trial; otherwise 0.
+paid_conversion,int64,0,1,0.09797592043273426,0,2,"1 if the paid-conversion lifecycle flag is true; treated as a pre-D30 stage indicator for this educational setup, although its timestamp is unavailable."
+d1_retained,int64,0,1,0.4073460129122317,0,2,1 if the user was retained on D1; otherwise 0.
+d30_retained,int64,0,1,0.1476182167161054,0,2,Target label: 1 if the user was retained on D30; otherwise 0.

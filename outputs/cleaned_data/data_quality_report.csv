@@ -1,0 +1,19 @@
+Metric,Value
+Original Rows,11462.0
+Cleaned Rows,11462.0
+Rows Removed,0.0
+Unique Users (Cleaned),11462.0
+Duplicate Rows,0.0
+Duplicate Users,0.0
+Duplicate User Rows,0.0
+Missing Cells,0.0
+Invalid Variants,0.0
+Missing Expected Variants,0.0
+Invalid Binary Values,0.0
+Invalid Date/Time Values,0.0
+Inconsistent Eligibility Records,0.0
+Control Count,5677.0
+Treatment Count,5785.0
+Control Assignment Share (%),49.5289
+Treatment Assignment Share (%),50.4711
+"Assignment Share Difference (Treatment - Control, pp)",0.9422

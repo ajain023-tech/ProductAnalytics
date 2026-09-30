@@ -1,0 +1,4 @@
+model,true_negative,false_positive,false_negative,true_positive
+Logistic Regression,1955,0,338,0
+Decision Tree,1955,0,338,0
+K-Nearest Neighbors,1589,366,248,90

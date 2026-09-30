@@ -1,0 +1,15 @@
+Control vs Treatment: Statistical Test Interpretations
+Two-sided two-proportion z-tests; alpha = 0.05.
+Confidence intervals are 95% intervals for Treatment rate minus Control rate.
+
+onboarding_completed: Control rate was 53.20% (3,020/5,677); Treatment rate was 56.54% (3,271/5,785). Treatment was higher by 3.35 percentage points. The two-sided p-value was 0.000319487; this difference is statistically significant at the 5% level. This is an association observed in these data and does not establish causality.
+
+trial_started: Control rate was 15.66% (889/5,677); Treatment rate was 17.10% (989/5,785). Treatment was higher by 1.44 percentage points. The two-sided p-value was 0.0377944; this difference is statistically significant at the 5% level. This is an association observed in these data and does not establish causality.
+
+paid_conversion: Control rate was 10.15% (576/5,677); Treatment rate was 9.46% (547/5,785). Treatment was lower by 0.69 percentage points. The two-sided p-value was 0.213614; this difference is not statistically significant at the 5% level. This is an association observed in these data and does not establish causality.
+
+d1_retained: Control rate was 40.09% (2,276/5,677); Treatment rate was 41.37% (2,393/5,785). Treatment was higher by 1.27 percentage points. The two-sided p-value was 0.165157; this difference is not statistically significant at the 5% level. This is an association observed in these data and does not establish causality.
+
+d7_retained: Control rate was 18.72% (1,063/5,677); Treatment rate was 17.99% (1,041/5,785). Treatment was lower by 0.73 percentage points. The two-sided p-value was 0.312888; this difference is not statistically significant at the 5% level. This is an association observed in these data and does not establish causality.
+
+d30_retained: Control rate was 14.50% (823/5,677); Treatment rate was 15.02% (869/5,785). Treatment was higher by 0.52 percentage points. The two-sided p-value was 0.428652; this difference is not statistically significant at the 5% level. This is an association observed in these data and does not establish causality.

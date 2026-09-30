@@ -1,0 +1,4 @@
+model_name,train_rows,test_rows,feature_count,random_state,test_size,target_name,test_user_ids_sha256
+Logistic Regression,9169,2293,5,42,0.2,d30_retained,8eb6c7d15a728ebf1ebacf505b4d4e8c60de07a598fe05279139b7afd3b1c741
+Decision Tree,9169,2293,5,42,0.2,d30_retained,8eb6c7d15a728ebf1ebacf505b4d4e8c60de07a598fe05279139b7afd3b1c741
+K-Nearest Neighbors,9169,2293,5,42,0.2,d30_retained,8eb6c7d15a728ebf1ebacf505b4d4e8c60de07a598fe05279139b7afd3b1c741

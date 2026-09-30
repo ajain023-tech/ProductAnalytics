@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1_score,roc_auc
+Logistic Regression,0.8525948539,0,0,0,0.6652151213
+Decision Tree,0.8525948539,0,0,0,0.6629564612
+K-Nearest Neighbors,0.7322285216,0.1973684211,0.2662721893,0.2267002519,0.5597254801

@@ -1,0 +1,6 @@
+1. The largest absolute funnel drop-off is Assigned -> Onboarding (5,171 users).
+2. The weakest funnel conversion is Trial Started at 29.79%.
+3. Paid conversion from all assigned users is 9.54% (1,093 of 11,462 users in the ordered funnel).
+4. Retention changes from 40.73% on D1 to 14.76% on D30, a decline of 25.97 percentage points; the largest adjacent drop is D1 to D7 (22.38 percentage points).
+5. Treatment has the higher onboarding rate by 3.35 percentage points; Control has the higher eligible paid-conversion rate by 0.69 points; and Treatment has the higher D30 retention rate by 0.52 points. In the ordered funnel, Control has the higher trial-to-paid rate by 10.33 points. These are descriptive differences, not significance tests.
+6. Among observed funnel flags, 32 records have a later-stage outcome without the preceding funnel stage; the ordered funnel excludes these records from downstream stages.
